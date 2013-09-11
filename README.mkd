@@ -5,12 +5,11 @@ The Retro Gauge is a mechanical vehicle gauge that displays data received over a
 serial communication line. One possible use of the gauge is to display vehicle
 data from the [OpenXC platform][openxc].
 
-The design intent was to keep the gauge
-as open and accessible as possible so that the community could contribute and
-benefit from the design.
+The design intent was to keep the gauge as open and accessible as possible so
+that the community could contribute and benefit from the design.
 
 For more details on the project, visit the [project page on the OpenXC
-website](http://openxcplatform.com/hardware-addons/retro-gauge.html).
+website](http://openxcplatform.com/projects/retro-gauge.html).
 
 For an instructional lab on how to build the gauge, see the [Retro Gauge
 Lab](http://retro-gauge-lab.openxcplatform.com/).
@@ -46,3 +45,5 @@ data from the [OpenXC platform][openxc].
 The designs in this repository are available under the [Creative Commons
 Atribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/deed.en_US)
 license.
+
+[openxc]: http://openxcplatform.com
